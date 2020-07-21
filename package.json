@@ -1,7 +1,7 @@
 {
-  "name": "useless",
+  "name": "Useless Bot",
   "version": "1.0.0",
-  "description": "A useless discord bot",
+  "description": "A useless Discord bot",
   "main": "useless.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
