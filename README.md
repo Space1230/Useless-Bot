@@ -1,6 +1,6 @@
 # Useless Bot - A Useless Discord Bot
 
-[Add it to your server](discord.com/oauth2/authorize?client_id=733186628272783360&scope=bot)
+[Add it to your server](http://www.discord.com/oauth2/authorize?client_id=733186628272783360&scope=bot)
 
 ## Table of contents
 - [About](#About)
