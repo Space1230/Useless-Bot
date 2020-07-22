@@ -22,7 +22,7 @@ This project was built with:
 - [Youtube-Random-Video v1.0.5](https://www.npmjs.com/package/youtube-random-video)
 
 ## Installation
-If you don't want to host the bot, you can simply click this [link](discord.com/oauth2/authorize?client_id=733186628272783360&scope=bot) to simply add the bot to your server.
+If you don't want to host the bot, you can simply click this [link](http://www.discord.com/oauth2/authorize?client_id=733186628272783360&scope=bot) to simply add the bot to your server.
 
 - ### Installing Node
 Go to the Node.js website [here](https://nodejs.org/en/download/) and simply click on the Windows or Macos installer. Download it, run, and follow the installation process in the setup window. Then open Terminal if you are Mac or open Command Prompt if you are on Windows and check to see if the installation was successful by running this command. (From here on out I will call both Command Prompt and Terminal "terminal").  
