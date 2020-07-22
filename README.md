@@ -6,7 +6,7 @@
 - [About](#About)
 - [Technologies](#Technologies)
 - [Installation](#Installation)
-  - [Node.js](#Installing_Node.js)
+  - [Installing Node.js](#Installing-Node.js)
   - [Download the Project](#Download-the-Project)
   - [Installing Packages](#Installing-Packages)
   - [Adding API Keys](#Adding-API-Keys)
