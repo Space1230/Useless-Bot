@@ -6,7 +6,7 @@
 - [About](#About)
 - [Technologies](#Technologies)
 - [Installation](#Installation)
-  - [Installing Node.js](#Installing-Nodejs)
+  - [Installing Node](#Installing-Node)
   - [Download the Project](#Download-the-Project)
   - [Installing Packages](#Installing-Packages)
   - [Adding API Keys](#Adding-API-Keys)
@@ -24,7 +24,7 @@ This project was built with:
 ## Installation
 If you don't want to host the bot, you can simply click this [link](discord.com/oauth2/authorize?client_id=733186628272783360&scope=bot) to simply add the bot to your server.
 
-- ### Installing Nodejs
+- ### Installing Node
 Go to the Node.js website [here](https://nodejs.org/en/download/) and simply click on the Windows or Macos installer. Download it, run, and follow the installation process in the setup window. Then open Terminal if you are Mac or open Command Prompt if you are on Windows and check to see if the installation was successful by running this command. (From here on out I will call both Command Prompt and Terminal "terminal").  
 `node -v`  
 If you get back a version number than you have successfully installed Node.
